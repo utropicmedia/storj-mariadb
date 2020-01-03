@@ -1,7 +1,0 @@
-{ 
-    "apikey":     "",
-    "satellite":  "us-central-1.tardigrade.io:7777",
-    "bucket":     "partnerbucket03",
-	"uploadPath": "",
-    "encryptionpassphrase": "test"
-}
