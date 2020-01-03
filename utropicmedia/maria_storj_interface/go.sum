@@ -350,3 +350,4 @@ honnef.co/go/tools v0.0.0-20190102054323-c2f93a96b099/go.mod h1:rf3lG4BRIbNafJWh
 honnef.co/go/tools v0.0.0-20190523083050-ea95bdfd59fc/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 storj.io/storj v0.20.1 h1:8d2oOZYp7YbiTN6BQgQb0nuHrdDwPfjfaOq6Zkg2I6s=
 storj.io/storj v0.20.1/go.mod h1:5cCPWSv3sh2KamUy3A9vVsjfC7JzjwUktQ27Zyt4bUA=
+storj.io/storj v0.26.3 h1:/8xqgGqBzCQh59y41OBbnPNGjrF4an+fvZL3vDP7uus=
