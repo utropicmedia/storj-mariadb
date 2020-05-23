@@ -1,4 +1,13 @@
-# Storj-MariaDB Changelog
+# Connector-MariaDB Changelog
+
+## [1.0.5] - 20-05-2020
+### Changelog:
+* Made changes according to latest uplink RC
+* Added cobra cli for user interface.
+* Restructured project based on the requirements for cobra cli.
+* Changed arguments to optional flags.
+* Added `--accesskey` and `--share` flags and removed `key`, `test`, `parse` and `debug` flags.
+* Added `--storj` flag to set storj config file path and `--maria` to set maria config file path.
 
 ## [1.0.2] - 13-12-2019
 ### Changelog:

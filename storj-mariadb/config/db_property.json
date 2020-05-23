@@ -1,7 +1,0 @@
-{ 
-    "hostname": "mariadbHostName",
-    "port":     "3306",
-    "username": "username",
-    "password": "password",
-    "database": "mariaDatabaseName"
-}
